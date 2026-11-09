@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 800px;
+    height: 600px;
+    background: rgba(203, 124, 64, 0.589);
+    margin: 0 auto;
+    position: relative;
+}
+
+.box1 {
+    width: 100px;
+    height: 300px;
+    background: rgb(81, 44, 3);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.box2 {
+    width: 90px;
+    height: 80px;
+    background: tomato;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.box3 {
+    width: 60px;
+    height: 70px;
+    background: rgb(192, 130, 63);
+    position: absolute;
+    top: 0px;
+    left:0px;
+}
